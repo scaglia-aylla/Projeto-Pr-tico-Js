@@ -23,7 +23,6 @@ Contribuições para melhorar a calculadora são sempre bem-vindas! Se você tem
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## Contato
-- Nome do Criador: [Aylla Scaglia]
-- Email: [aylla@scaglia.com.br]
-- GitHub: [https://github.com/scaglia-aylla]
-
+- Nome do Criador: Aylla Scaglia
+- Email: aylla@scaglia.com.br
+- GitHub: https://github.com/scaglia-aylla
