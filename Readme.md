@@ -7,7 +7,7 @@ Este repositório contém uma série de projetos práticos desenvolvidos por mim
 Aqui está uma lista dos projetos incluídos neste repositório, junto com uma breve descrição de cada um, ainda estou implementando conforme avanço nos estudos:
 
 1. **Calculadora Web**: Uma calculadora simples que permite operações matemáticas básicas. Tecnologias usadas: HTML, CSS, JavaScript.
-2.  **Js Bookstore**: Projeto usando POO para praticar
+2.  **Js Bookstore**: Aplicação simples para praticar orientação a objetos com Javascript.
 
 
 
