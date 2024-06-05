@@ -8,6 +8,7 @@ Aqui está uma lista dos projetos incluídos neste repositório, junto com uma b
 
 1. **Calculadora Web**: Uma calculadora simples que permite operações matemáticas básicas. Tecnologias usadas: HTML, CSS, JavaScript.
 2.  **Js Bookstore**: Aplicação simples para praticar orientação a objetos com Javascript.
+2.  **Consumindo uma Api**: Aplicação de Finanças consumindo a Api Json-server .
 
 
 
